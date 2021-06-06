@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039369180623",
+    "project_id": "organizze-dcdb2",
+    "storage_bucket": "organizze-dcdb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039369180623:android:10497afcb20c68d87caeba",
+        "android_client_info": {
+          "package_name": "com.br.cursoorganizze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039369180623-kg76gapfasc58nl7j2n3tc9hre2p2q0v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.cursoorganizze",
+            "certificate_hash": "e0658d8adf6da4eb251147b6d6d479c1c4135bbe"
+          }
+        },
+        {
+          "client_id": "1039369180623-i7b06i1s72otv44efttitenit9plor2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF_X3xVDB4bJuatMfhf2NWKVElB6E-sEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039369180623-i7b06i1s72otv44efttitenit9plor2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
